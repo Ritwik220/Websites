@@ -1,0 +1,34 @@
+body{
+  background-image: url(https://lh6.googleusercontent.com/proxy/xZbt3v_VA_d47bCCIGK6XOufya_92N1c0MDOHLmwmczS6OaKG6jfvj9wsxCxDtW8XpBB4mBrSrnPBlJ71FAEHkOLny32TgF3bYpN1ymo3hPK4g=w3840-h2160-p-k-no-nd-mv);
+  background-size: cover;
+  position: sticky;
+  background-attachment: fixed;
+}
+h1{
+  font-family: "Caveat", cursive;
+  color: #1A120B;
+  position: relative;
+  left: 40%;
+  right: 40%;
+  top: 150px;
+  font-size: 60px;
+  width: 25%
+}
+#Posting-area{
+  overflow: scroll;
+  position: relative;
+  right: 10%;
+  left: 10%;
+  width: 80%;
+  padding-top: 80%;
+  background-color: #fff;
+  opacity: 0.35;
+  top: 200px;
+}
+#add-blog{
+  position: relative;
+  left: 45%;
+  right: 45%;
+  opacity: 1;
+  top: 175px;
+}

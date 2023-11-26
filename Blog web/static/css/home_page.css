@@ -1,0 +1,93 @@
+body{
+  overflow-x: hidden;
+}
+#index-heading{
+  height: 20px;
+}
+#purple{
+  display: flex;
+  background-color: #2B2A4C;
+  height: 1200px
+}
+#image-logo{
+  padding-right: 10%;
+  position: relative;
+  left: 5%;
+}
+#image {
+  width: 100%;
+  position: relative;
+  top: 200px;
+  height: 500px;
+}
+#Introduction{
+  background-color: #F5E8C7;
+  height: 1000px;
+}
+#intro-heading{
+  font-family: Satisfy;
+  font-size: 75px;
+  position: relative;
+  top: 150px;
+  left: 35%;
+  right: 35%;
+}
+#intro-contents{
+  display: flex;
+}
+#introduction{
+  font-family: Satisfy;
+  position: relative;
+  width: 50%;
+  height: 400px;
+  font-size: 30px;
+  top: 200px;
+  padding-right: 120px;
+  padding-left: 150px
+}
+#End{
+  display: flex;
+  height: 650px
+}
+#login-or-sign-up{
+  background-color: #4F6F52;
+  width: 50%;
+}
+#bootstrap-input{
+  position: relative;
+  top: 150px;
+  width: 70%;
+  right: 15%;
+  left: 15%
+}
+#login{
+  position: relative;
+  top: 200px;
+  left: 25%;
+}
+#sign-up{
+  position: relative;
+  top: 200px;
+  left: 45%;
+  bottom: 80%
+}
+#end-image{
+  width: 50%;
+  background-image: url("https://th.bing.com/th/id/OIG.ZBwJkXsdjQKPm9reATad?pid=ImgGn");
+  background-size: 100% auto;
+}
+#bye-message{
+  width: 92%;
+  padding-top: 180px;
+  display: block;
+}
+#final-words{
+  display: flex;
+}
+#final-sentence{
+  display: block;
+  padding-top: 300px;
+  font-family: Ephesis;
+  font-size: 40px;
+  padding-right: 100px
+}
